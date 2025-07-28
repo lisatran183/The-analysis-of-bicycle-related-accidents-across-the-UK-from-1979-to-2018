@@ -15,7 +15,7 @@ b. Data Cleaning & Preparation:
 - Finally, I extracted the Year as a new column.
 ---
 ## 2. Statistical Analysis
-I applied .describe(include='all') to the cleaned dataset to summarize both numeric and categorical variables:
+I applied `.describe(include='all')` to the cleaned dataset to summarize both numeric and categorical variables:
 - Numeric variables like Speed_limit, Number_of_Vehicles, and Number_of_Casualties showed reasonable central tendencies:
   - Mean speed limit: 33.3 mph
   - Most accidents involved 2 vehicles and 1 casualty
