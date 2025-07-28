@@ -1,4 +1,4 @@
-# The-analysis-of-bicycle-related-accidents-across-the-UK-from-1979-to-2018
+# The analysis of bicycle-related accidents across the UK from 1979 to 2018
 ---
 ## 1. Exploratory Data Analysis (EDA):
 a. Dataset Overview:
