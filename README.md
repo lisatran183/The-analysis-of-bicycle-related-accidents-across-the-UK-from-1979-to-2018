@@ -33,7 +33,7 @@ These insights helped guide the visual analysis and were later used to formulate
 ---
 # 3. Key Findings
 
-## 1. Accidents per Year:
+## 1. Accidents per Year
 - An annual average of over 29,000 incidents were reported, thereby pointing to a period of high vulnerability; incidents peaked from 1983 through 1985.
 - The downward trend between 1990 and 2010 was attributable to improved safety regulations and urban planning for road safety.
 - After 2011, the trend seems to climb again and is probably a reflection of the increase in cyclists using a bike for commuting.
@@ -42,7 +42,7 @@ These insights helped guide the visual analysis and were later used to formulate
 <img width="1184" height="584" alt="1" src="https://github.com/user-attachments/assets/627c8959-dbc7-4eae-971b-249d90876871" />
 
 
-## 2. Accident Severity by Gender:
+## 2. Accident Severity by Gender
 - In more than 80% of the reported accidents, male cyclists were involved, pointing to a demographic trend in exposure.
 - Most accidents fall under the category of "Slight" while Serious and Fatal accidents display the same male-biased pattern.
 - Although female cyclists are few in number, they consistently maintain a presence and have a significantly lower severe incident ratio compared to male cyclists.
@@ -51,7 +51,7 @@ These insights helped guide the visual analysis and were later used to formulate
 <img width="784" height="484" alt="2" src="https://github.com/user-attachments/assets/96459e87-e3f1-4797-876f-aa6a59c5b128" />
 
 
-## 3. Victims by Age Group:
+## 3. Victims by Age Group
 - Moreover, children between 11 and 15 were the most prone, probably due to lower road experience and higher exposure during school travel.
 - Adult riders between 26 and 45 make up a major share of the incidents, indicating elevated commuting activity within this population group.
 - Elderly people (56 and above) sustain injuries less frequently, but when they do, they likely face a higher risk of serious injury.
