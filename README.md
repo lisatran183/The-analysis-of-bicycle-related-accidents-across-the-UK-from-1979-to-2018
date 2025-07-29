@@ -1,5 +1,8 @@
 # The analysis of bicycle-related accidents across the UK from 1979 to 2018
 ---
+# Table of contents:
+## 1. Exploratory Data Analysis (EDA)
+---
 ## 1. Exploratory Data Analysis (EDA):
 a. Dataset Overview:
 This dataset contains detailed records of bicycle-related accidents across the UK from 1979 to 2018, totaling 827,861 rows and 14 columns. It includes:
