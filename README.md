@@ -78,7 +78,7 @@ These insights helped guide the visual analysis and were later used to formulate
 
 ---
 
-# 4.Dashboard Design
+# 4. Dashboard Design
 This Jupyter-based dashboard is structured, interactive, and user-friendly:
 - Organized into clear sections: data preview, cleaning, visual insights, and interactive filtering.
 - Includes a dropdown menu to explore severity by gender across years, making it dynamic and engaging.
