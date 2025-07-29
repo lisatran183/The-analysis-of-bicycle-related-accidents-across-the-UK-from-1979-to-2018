@@ -1,11 +1,12 @@
 # The analysis of bicycle-related accidents across the UK from 1979 to 2018
 ---
-# Table of contents:
-## 1. Exploratory Data Analysis (EDA)
-### 2. Statistical Analysis
-#### 3. Key Findings
-##### 4.Dashboard Design
 
+# Table of contents:
+
+## 1. Exploratory Data Analysis (EDA)
+## 2. Statistical Analysis
+## 3. Key Findings
+## 4.Dashboard Design
 
 ---
 ## 1. Exploratory Data Analysis (EDA)
