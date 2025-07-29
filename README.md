@@ -2,9 +2,9 @@
 ---
 # Table of contents:
 ## 1. Exploratory Data Analysis (EDA)
-## 2. Statistical Analysis
-## 3. Key Findings
-## 4.Dashboard Design
+### 2. Statistical Analysis
+#### 3. Key Findings
+##### 4.Dashboard Design
 
 
 ---
