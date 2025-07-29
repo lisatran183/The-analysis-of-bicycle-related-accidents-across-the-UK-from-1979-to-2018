@@ -86,3 +86,8 @@ This Jupyter-based dashboard is structured, interactive, and user-friendly:
 
 <img width="813" height="422" alt="Screenshot 2025-07-28 at 3 52 18 PM" src="https://github.com/user-attachments/assets/f0261a44-c5ee-4496-b19b-8e65181a60bf" />
 
+---
+
+# 5. References
+Bicycle accidents in Great Britain (1979 to 2018). (2021, November 29). Kaggle. https://www.kaggle.com/datasets/johnharshith/bicycle-accidents-in-great-britain-1979-to-2018?resource=download
+
