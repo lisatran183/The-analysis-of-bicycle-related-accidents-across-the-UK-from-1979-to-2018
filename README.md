@@ -9,7 +9,7 @@
 ## 4.Dashboard Design
 
 ---
-## 1. Exploratory Data Analysis (EDA)
+# 1. Exploratory Data Analysis (EDA)
 a. Dataset Overview:
 This dataset contains detailed records of bicycle-related accidents across the UK from 1979 to 2018, totaling 827,861 rows and 14 columns. It includes:
 - Environmental attributes (e.g., weather, road, light conditions)
@@ -24,7 +24,7 @@ b. Data Cleaning & Preparation:
 - Finally, I extracted the Year as a new column.
 
 ---
-## 2. Statistical Analysis
+# 2. Statistical Analysis
 I applied `.describe(include='all')` to the cleaned dataset to summarize both numeric and categorical variables:
 - Numeric variables like Speed_limit, Number_of_Vehicles, and Number_of_Casualties showed reasonable central tendencies:
   - Mean speed limit: 33.3 mph
@@ -40,7 +40,7 @@ I applied `.describe(include='all')` to the cleaned dataset to summarize both nu
 These insights helped guide the visual analysis and were later used to formulate prescriptive safety recommendations.
 
 ---
-## 3. Key Findings
+# 3. Key Findings
 
 1. Accidents per Year:
 - An annual average of over 29,000 incidents were reported, thereby pointing to a period of high vulnerability; incidents peaked from 1983 through 1985.
@@ -87,7 +87,7 @@ These insights helped guide the visual analysis and were later used to formulate
 
 ---
 
-## 4.Dashboard Design
+# 4.Dashboard Design
 This Jupyter-based dashboard is structured, interactive, and user-friendly:
 - Organized into clear sections: data preview, cleaning, visual insights, and interactive filtering.
 - Includes a dropdown menu to explore severity by gender across years, making it dynamic and engaging.
